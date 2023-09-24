@@ -13,6 +13,6 @@ if (topic === 'HTML') {
   console.log('Please try again!');
 }
 */
-var shapes = ["triangle", "square", "pentagon", "circle"];
+var shapes = ["HTML", "CSS", "Git", "JavsScript"];
 for (var x=0; x<shapes.length;x+=1) {console.log(shapes[x]);}
 
